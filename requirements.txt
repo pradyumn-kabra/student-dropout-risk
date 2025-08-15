@@ -1,0 +1,8 @@
+# Minimal baseline; update with `pip freeze > requirements.txt` after your env is stable
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyter
+joblib
