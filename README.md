@@ -40,7 +40,7 @@ The objective was to predict the risk of student dropouts using machine learning
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/student-dropout-risk.git
+   git clone https://github.com/pradyumn-kabra/student-dropout-risk.git
 2. Navigate into the project folder:
    ```bash
    cd student-dropout-risk
